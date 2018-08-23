@@ -1,7 +1,7 @@
 # List of molecular weights of relevant elements, from period table from the Royal Society of Chemistry http://www.rsc.org/periodic-table
 molecular_weights = {"Li": 6.94, "Na": 22.99, # Alkali metals
                     "Sc": 44.956, "Ti": 47.867, "V": 50.942, "Cr": 51.996, "Mn": 54.938, "Fe": 55.845, "Co": 58.933, "Ni": 58.693, "Cu": 63.546, "Zn": 65.38, # 3d metals
-                    "O": 15.999, "F": 18.998, "P": 30.974, "S": 32.06} # p-block
+                    "C": 12.011, "N": 14.007, "O": 15.999, "F": 18.998, "P": 30.974, "S": 32.06} # p-block
 
 faradays_constant = 96485.3365 # [F] = C mol^-1 = As mol^-1
 seconds_per_hour = 3600 # s h^-1
